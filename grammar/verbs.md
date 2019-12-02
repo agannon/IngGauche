@@ -110,3 +110,51 @@ IngGauche:
 | I  havef         | we havev |
 | you  haves       | you haves |
 | he/she/it haveth  | they haveth | 
+
+### Future Tense Indicative Form
+
+Future tense is formed simply by adding the 'ge' particle in front of the
+present tense conjugation. Pronounced 'gə'
+
+|  |  |
+| --- | --- |
+| I  gehavef         | we gehavev |
+| you  gehaves       | you gehaves |
+| he/she/it gehaveth  | they gehaveth | 
+
+The 'ge' is elided in favor of 'g' in cases where the verb begins with a vowel
+
+|  |  |
+| --- | --- |
+| I  gadvancef         | we gadvancev |
+| you  gadvances       | you gadvances |
+| he/she/it gadvanceth  | they gadvanceth | 
+
+### Past Tense Indicative Form
+
+The past tense is formed by adding '(e)d' or '(e)t' to the end of the present tense conjugation.
+Depending on the voiced/voiceless ending
+
+|  |  |
+| --- | --- |
+| I  haveft         | we havevd |
+| you  havest       | you havesd |
+| he/she/it havetht  | they havethd | 
+
+In the case above, the (e) is elided due to the root ending in a vowel.
+In verbs with an awkward consonant cluster such as 'burn'
+
+|  |  |
+| --- | --- |
+| I  burnfet         | we burnved |
+| you  burnset       | you burnsed |
+| he/she/it burnthet  | they burnthed | 
+
+### Verb Negation
+
+Verbs are negated simply by prepending the particle 'ne' to a verb:
+
+I negebeef -> I will not be
+It neburnthet -> It didn't burn
+
+
