@@ -7,7 +7,7 @@ apart however are its new grammatical features borrowed/inspired from other lang
 #### Proposed Features
 
 Case System: adding a real system for declining nouns in the nominative, objective, 
-prepositional, and genitive cases.
+auxiliary, and genitive cases.
 
 Verb Conjugation: Reducing English to only three tenses that are communicated purely by 
 inflection as opposed to using auxiliary verbs. And by regularizing the conjugation of all
